@@ -1,0 +1,15 @@
+{
+  "learning_rate": 0.0009,
+  "batch_size": 8192,
+  "epochs": 60,
+  "save_checkpoint": true,
+  "amp": false,
+  "dir_checkpoint": "outputs",
+  "dataset": "CoNIC",
+  "n_classes": 7,
+  "bilinear": false,
+  "l1_lambda": 0.00003,
+  "l2_lambda": 0.0005,
+  "normalizer": "macenko",
+  "model_type": "classic"
+}

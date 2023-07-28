@@ -1,0 +1,12 @@
+{
+  "log":  false,
+  "lr": 0.000003,
+  "n_classes": 5,
+  "l2_lambda": 1e-6,
+  "batch_size": 32,
+  "epochs": 25,
+  "mode": "binary",
+  "norm": "gnorm",
+  "nodst": false,
+  "colorspace": "lab"
+}

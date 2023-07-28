@@ -1,0 +1,13 @@
+{
+  "log":  false,
+  "lr": 5e-6,
+  "n_classes": 5,
+  "l2_lambda": 1e-6,
+  "batch_size": 16,
+  "epochs": 25,
+  "mode": "multiclass_pyramid",
+  "norm": "batch",
+  "nodst": false,
+  "colorspace": "lab",
+  "attention": true
+}

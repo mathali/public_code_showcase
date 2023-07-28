@@ -1,0 +1,15 @@
+{
+  "learning_rate": 0.0003,
+  "batch_size": 32,
+  "epochs": 30,
+  "val_percent": 0.1,
+  "save_checkpoint": true,
+  "img_scale": 1.0,
+  "amp": false,
+  "dir_checkpoint": "outputs",
+  "dataset": "CoNIC",
+  "n_classes": 2,
+  "bilinear": false,
+  "normalizer": "macenko",
+  "augment": true
+}

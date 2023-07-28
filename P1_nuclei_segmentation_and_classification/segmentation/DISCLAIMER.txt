@@ -1,0 +1,8 @@
+U-Net implementation based on:
+https://github.com/milesial/Pytorch-UNet
+
+Image augmentations taken from HoVer-Net:
+https://github.com/vqdang/hover_net/blob/master/dataloader/augs.py
+
+Staining normalizations from:
+https://github.com/wanghao14/Stain_Normalization
